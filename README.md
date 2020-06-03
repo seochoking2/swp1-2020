@@ -1,2 +1,2 @@
-Gildong Hong 20200001
+20200001 Gildong Hong
 Kookmin Univ. SW
